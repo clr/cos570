@@ -1,0 +1,9 @@
+[1] The 2K BotPrize http://botprize.org/
+[2] Pogamut2 https://artemis.ms.mff.cuni.cz/pogamut/tiki-index.php?page=homepage
+[3] Purchase UT2004 from Steam? http://store.steampowered.com/app/13230/
+[4] sqlite-bot http://aigamedev.com/open/articles/sqlite-bot/
+[5] emergent agent-based fiction http://www.erasmatazz.com/library/PILGRIM2.html
+[6] rules-based agent fiction http://www.designersnotebook.com/Columns/075_You_Must_Play_Facade_Now/075_you_must_play_facade_now.htm
+[7] CMU Oz project http://www.cs.cmu.edu/afs/cs.cmu.edu/project/oz/web/papers.html
+[8] Sim design tips http://aigamedev.com/open/highlights/the-sims-ai/
+

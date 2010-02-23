@@ -1,0 +1,29 @@
+***** Rules-Based Development Phase *****
+
+3/2:
+Have modified SimpleBot running.
+
+3/9:
+Modify SimpleBot with action based on personality profile.
+
+3/16:
+Develop personality => action mapping, with weights.
+
+3/23: Spring Break
+
+***** Learning Phase *****
+
+3/30:
+
+4/6:
+
+4/13:
+
+4/20:
+
+4/27:
+
+5/4:
+Bot passes Turing test!!!
+
+

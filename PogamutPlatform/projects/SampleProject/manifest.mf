@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+X-COMMENT: Bot-class is main class of the bot. It must extend cz.cuni.pogamut.Client.Agent.
+Bot-class: simplebot.Main
+

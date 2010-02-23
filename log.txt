@@ -1,2 +1,24 @@
+See also, in the same directory:
+references.txt
+schedule.txt
+personality_to_action_mapping.ods [OpenOffice Spreadsheet]
+
+1/28:
+looking at different agent/gaming platforms, leaning towards UT2004 for the 2K BotPrize;
+read reference [1]; looking at platform requirements, reference [2], [3]
+
+2/4:
+studying Pogamut and GameBot platform, trying to get agent development library up and
+running locally; Java incompatibilities -- need to switch to Sun's runtime; read 
+references [5], [6], [7], and [8]
+
 2/11:
-created github account; back-filling log with tasks already completed
+created github account; back-filling log with tasks already completed; studying 
+reference [4], the winning entry to BotPrize '09; installed demo version of UT2004
+64bit running on linux, Netbeans 6.5, Pogamut 2.4.1; GameBot Deathmatch running
+
+2/18: Winter Break
+
+2/25: 
+Examining code for SimpleBot; investigating Pogamut 3.0 beta, Netbeans crashes; 
+

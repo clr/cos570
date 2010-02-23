@@ -1,0 +1,1 @@
+This is the directory where your projects will be stored by default
